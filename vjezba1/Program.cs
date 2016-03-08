@@ -12,5 +12,7 @@ namespace vjezba1
             for(int i=0;i<5;i++)
             Console.WriteLine("dsadakk");
         }
+        
+    int metoda(){}
     }
 }
